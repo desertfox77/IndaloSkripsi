@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155931169209",
+    "project_id": "skripsiindalo-2eecc",
+    "storage_bucket": "skripsiindalo-2eecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155931169209:android:768d22144655dc81ed2668",
+        "android_client_info": {
+          "package_name": "com.fathanleo.skripsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155931169209-0ud8ssgrojq00a7k314b6o4eicofa5s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4d64Xbkt5dIa3GBLd70m5otW_mkreLp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155931169209-0ud8ssgrojq00a7k314b6o4eicofa5s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

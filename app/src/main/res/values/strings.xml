@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Skripsi</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="verif_email">Please verify your email</string>
+    <string name="open_email_app">Open your email app</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_news">News</string>
+    <string name="menu_contribute">Contribute</string>
+    <string name="menu_event">Event</string>
+    <string name="menu_user">User</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="opener">Hello, welcome</string>
+    <string name="history">History</string>
+
+</resources>
